@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WebSocketChatKotlin</string>
+    <string name="edit_message">Enter message</string>
+    <string name="edit_login_name_hint">Enter your name</string>
+    <string name="button_login">Enter</string>
+    <string name="default_username">Guest</string>
+    <string name="edit_login_password_hint">Enter your password</string>
+    <string name="empty_username_snackbar">"Please enter your name"</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name='WebSocketChatKotlin'
+include ':app'
